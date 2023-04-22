@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="caf4175e-9217-46d6-a575-71e5f84eb768" name="RaspberryPiOS-mateo_indoor-climate-monitor-iotapp">
+        <fileTransfer rootFolder="/home/mateo/Documents/InternetStvari/Project/indoor-climate-monitor-iotapp" accessType="SFTP" host="192.168.0.125" port="22" sshConfigId="34954d0c-de4f-4d44-b7bd-23e9d0029f7b" sshConfig="mateo@192.168.0.125:22 password">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" keepAliveTimeout="0" passiveMode="true" shareSSLContext="true" />
+          </advancedOptions>
+        </fileTransfer>
+      </webServer>
+    </option>
+  </component>
+</project>
